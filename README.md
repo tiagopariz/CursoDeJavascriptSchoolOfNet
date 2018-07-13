@@ -21,3 +21,8 @@ Iniciando com Javascript - Atualização 1
 - console.log(function)
 - Alerta: alert("texto")
 - Termina com ponto e vírgula (;)
+
+## 03 Comments
+
+- // Single line
+-- /* Multiline */
