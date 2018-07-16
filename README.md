@@ -25,4 +25,19 @@ Iniciando com Javascript - Atualização 1
 ## 03 Comments
 
 - // Single line
--- /* Multiline */
+- /* Multiline */
+
+## 04 Declaração de variáveis
+
+- Global: var nome = valor
+- Local: let nome = valor
+
+## 05 Conversão de tipos
+
+- Coverte pelo conteudo
+- Concatena: inteiro + string
+- Soma: inteiro + inteiro
+- Subtrai: inteiro - string
+- Subtrai: inteiro - inteiro
+- Converte para inteiro: parseInt(string)
+- Converte para real: parseFloat(string)
