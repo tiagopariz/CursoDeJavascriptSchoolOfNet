@@ -1,36 +1,69 @@
 # Curso de Javascript da School of Net
 
-Iniciando com Javascript - Atualização 1
+Iniciando com Javascript - Atualização 3
 
-## 01 Introdução
+## 01 Boa vindas
 
-- Semelhante o C++, porém simples
-- Netscape 2 em 1995
-- Funciona no modo cliente
+- Conteúdo
+- Visual Studio Code
+- Google Chrome
+- Mozilla Firefox
+
+## 02 História do Javascript
+
+- Bredan eich
+- Nomes antigos: Mocha, Livescript
+- Netscape 2.0 em 1995
+- Mais popular
+- Em 1996 começoua ser padronizado
+- ECMA: Organização que padroniza
+- ECMA Script v7
+- Atualizações constantes
+- Javascript é diferente de Java
+
+## 03 Estrutura da linguagem
+
+- É uma linguagem de script
+- Tipos básicos (caracteres, número e lógico)
 - Pode ser usado em Jogos, Aplicativos Web, Mobile e Server
-- Escrever no console: console.log("Test");
-- F12: ferramentas de desenvolvimento do navegador
-- Firefox: shift + F4 abre o Scratchpad
+- HTML e CSS interativo
 
-## 02 Hello World!
+## 04 Hello World!
 
+- Página HTMl
+- Tag `<script></script>`
+- alert("texto");
+
+## 05 Introdução a variáveis
+
+- Global: var nome = valor
+- Local: let nome = valor
+
+
+----------------------------
 - Não possui tipagem
 - Usa alguns padrões do Java
 - Não precisa declarar todas as variáveis
 - Função: function nome(param) { return value; }
 - console.log(function)
-- Alerta: alert("texto")
+
 - Termina com ponto e vírgula (;)
+
+- Semelhante o C++, porém simples
+- Funciona no modo cliente
+
+- Escrever no console: console.log("Test");
+- F12: ferramentas de desenvolvimento do navegador
+- Firefox: shift + F4 abre o Scratchpad
+
+
 
 ## 03 Comments
 
 - // Single line
 - /* Multiline */
 
-## 04 Declaração de variáveis
 
-- Global: var nome = valor
-- Local: let nome = valor
 
 ## 05 Conversão de tipos
 
